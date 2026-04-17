@@ -6,7 +6,7 @@
 
 ### Kauan Pereira dos Santos
 Estudante de Desenvolovimento de sistemas (3º ano Técnico) em Fatec Antonio Brambila, Araras, SP. 
-Atualmente focado em arquitetura Full-stack e gestão de projetos digitais.
+Atualmente focado em arquitetura Full-stack e gestão de projetos.
 
 ## Em Desenvolvimento: 
 [Afillimetrics:](https://github.com/PereiraKauan/Afillimetrics) O projeto nasceu de uma necessidade real, afiliados gastando horas do dia em buscas, divulgações e análises espalhadas em diversos ambientes diferentes.
