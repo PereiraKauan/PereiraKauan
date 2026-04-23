@@ -13,5 +13,7 @@ Atualmente focado em arquitetura Full-stack e gestão de projetos.
 Para suprir essa necessidade criamos uma plataforma que reune tudo que um afiliador prescisa no mesmo ambiente.
 
 ## Contato: 
-Linkedin: www.linkedin.com/in/kauan-santos-861b58332 <br>
-Email: kauanpsantos2@gmail.com
+Linkedin: [Kauan Santos](www.linkedin.com/in/kauan-santos-861b58332)
+
+
+Email: [kauanpsantos2@gmail.com](mailto:kauanpsantos2@gmal.com)
